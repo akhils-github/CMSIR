@@ -49,15 +49,13 @@
 .profile p{
     font-size: 12px;
 }
-.btn{
-    text-decoration: none;
-    color: #fff;
-    padding: 10px 40px;
-    border-radius: 30px;
-    background: linear-gradient(to right, #8d68c5, #e34494);
-    display: inline-block;
-    margin: 40px 0;
-    font-size: 15px;
+.btn img{
+     display: flex;
+    justify-content: space-around;
+    width: 50px;
+    border-radius: 50%;
+    margin: 30px 0 10px;
+    margin-left: 110px;
 
 }
 .social-media{
